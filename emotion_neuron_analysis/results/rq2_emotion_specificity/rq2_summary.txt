@@ -1,0 +1,81 @@
+RQ2: Emotion Specificity Analysis
+==================================================
+
+Signature neuron counts per emotion × layer:
+  ANGER: total = 14165 across all layers
+    L14: 1823
+    L15: 1881
+    L16: 1793
+    L17: 1592
+    L18: 1533
+    L19: 1408
+    L20: 1648
+    L21: 1299
+    L22: 1188
+  DISGUST: total = 9958 across all layers
+    L14: 1162
+    L15: 1248
+    L16: 1208
+    L17: 1095
+    L18: 1084
+    L19: 995
+    L20: 1212
+    L21: 1005
+    L22: 949
+  FEAR: total = 13121 across all layers
+    L14: 1597
+    L15: 1661
+    L16: 1554
+    L17: 1428
+    L18: 1351
+    L19: 1303
+    L20: 1610
+    L21: 1329
+    L22: 1288
+  HAPPINESS: total = 21555 across all layers
+    L14: 2451
+    L15: 2404
+    L16: 2425
+    L17: 2329
+    L18: 2390
+    L19: 2362
+    L20: 2615
+    L21: 2269
+    L22: 2310
+  SADNESS: total = 14829 across all layers
+    L14: 1832
+    L15: 1798
+    L16: 1891
+    L17: 1730
+    L18: 1627
+    L19: 1496
+    L20: 1732
+    L21: 1422
+    L22: 1301
+  SURPRISE: total = 23115 across all layers
+    L14: 2597
+    L15: 2470
+    L16: 2387
+    L17: 2495
+    L18: 2515
+    L19: 2452
+    L20: 2633
+    L21: 2664
+    L22: 2902
+
+Split-half reliability (Layer 18, 100 repeats):
+  ANGER: 0.5787 +/- 0.0082
+  DISGUST: 0.2386 +/- 0.0097
+  FEAR: 0.4514 +/- 0.0080
+  HAPPINESS: 0.5030 +/- 0.0081
+  SADNESS: 0.4007 +/- 0.0095
+  SURPRISE: 0.5679 +/- 0.0067
+
+Classifier (5-fold CV):
+  Overall accuracy: 0.5182
+  ANGER: P=0.538 R=0.604 F1=0.569 (n=4792.0)
+  DISGUST: P=0.254 R=0.153 F1=0.191 (n=1290.0)
+  FEAR: P=0.462 R=0.423 F1=0.442 (n=1900.0)
+  HAPPINESS: P=0.605 R=0.659 F1=0.631 (n=3010.0)
+  SADNESS: P=0.430 R=0.379 F1=0.403 (n=1808.0)
+  SURPRISE: P=0.535 R=0.541 F1=0.538 (n=3095.0)

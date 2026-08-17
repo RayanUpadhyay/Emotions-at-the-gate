@@ -1,0 +1,27 @@
+RQ4: Overlap Analysis
+==================================================
+
+Pairwise Jaccard similarity (aggregated):
+  ANGER vs DISGUST: 0.1844
+  ANGER vs FEAR: 0.0967
+  ANGER vs HAPPINESS: 0.0249
+  ANGER vs SADNESS: 0.0970
+  ANGER vs SURPRISE: 0.0467
+  DISGUST vs FEAR: 0.1285
+  DISGUST vs HAPPINESS: 0.0507
+  DISGUST vs SADNESS: 0.1022
+  DISGUST vs SURPRISE: 0.0287
+  FEAR vs HAPPINESS: 0.0680
+  FEAR vs SADNESS: 0.2075
+  FEAR vs SURPRISE: 0.0440
+  HAPPINESS vs SADNESS: 0.0975
+  HAPPINESS vs SURPRISE: 0.1507
+  SADNESS vs SURPRISE: 0.0383
+
+Exclusive vs shared signature neurons:
+  ANGER: 5917 exclusive, 8248 shared (total 14165)
+  DISGUST: 2449 exclusive, 7509 shared (total 9958)
+  FEAR: 3759 exclusive, 9362 shared (total 13121)
+  HAPPINESS: 10050 exclusive, 11505 shared (total 21555)
+  SADNESS: 4685 exclusive, 10144 shared (total 14829)
+  SURPRISE: 13012 exclusive, 10103 shared (total 23115)

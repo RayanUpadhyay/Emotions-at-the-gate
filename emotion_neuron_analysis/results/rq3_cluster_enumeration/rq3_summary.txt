@@ -1,0 +1,13 @@
+RQ3: Cluster Enumeration
+==================================================
+
+PCA: PC1=99.9%, PC2=0.0%
+Overall silhouette score: -0.0901
+
+KNN purity (k=15):
+  ANGER: 0.4851
+  DISGUST: 0.1773
+  FEAR: 0.2926
+  HAPPINESS: 0.3896
+  SADNESS: 0.2507
+  SURPRISE: 0.3957

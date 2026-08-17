@@ -1,0 +1,81 @@
+RQ1: Neuron Activation Frequency Analysis
+==================================================
+
+Layer 14:
+  ANGER: 90 consistent neurons
+  DISGUST: 80 consistent neurons
+  FEAR: 87 consistent neurons
+  HAPPINESS: 79 consistent neurons
+  SADNESS: 78 consistent neurons
+  SURPRISE: 82 consistent neurons
+
+Layer 15:
+  ANGER: 154 consistent neurons
+  DISGUST: 153 consistent neurons
+  FEAR: 156 consistent neurons
+  HAPPINESS: 147 consistent neurons
+  SADNESS: 153 consistent neurons
+  SURPRISE: 145 consistent neurons
+
+Layer 16:
+  ANGER: 157 consistent neurons
+  DISGUST: 150 consistent neurons
+  FEAR: 151 consistent neurons
+  HAPPINESS: 143 consistent neurons
+  SADNESS: 150 consistent neurons
+  SURPRISE: 149 consistent neurons
+
+Layer 17:
+  ANGER: 217 consistent neurons
+  DISGUST: 206 consistent neurons
+  FEAR: 208 consistent neurons
+  HAPPINESS: 200 consistent neurons
+  SADNESS: 204 consistent neurons
+  SURPRISE: 204 consistent neurons
+
+Layer 18:
+  ANGER: 193 consistent neurons
+  DISGUST: 194 consistent neurons
+  FEAR: 196 consistent neurons
+  HAPPINESS: 174 consistent neurons
+  SADNESS: 188 consistent neurons
+  SURPRISE: 174 consistent neurons
+
+Permutation test L18 ANGER: observed=193, p=0.0000
+Permutation test L18 DISGUST: observed=194, p=0.0000
+Permutation test L18 FEAR: observed=196, p=0.0000
+Permutation test L18 HAPPINESS: observed=174, p=0.9860
+Permutation test L18 SADNESS: observed=188, p=0.0030
+Permutation test L18 SURPRISE: observed=174, p=0.9900
+
+Layer 19:
+  ANGER: 223 consistent neurons
+  DISGUST: 215 consistent neurons
+  FEAR: 224 consistent neurons
+  HAPPINESS: 201 consistent neurons
+  SADNESS: 217 consistent neurons
+  SURPRISE: 201 consistent neurons
+
+Layer 20:
+  ANGER: 193 consistent neurons
+  DISGUST: 188 consistent neurons
+  FEAR: 194 consistent neurons
+  HAPPINESS: 178 consistent neurons
+  SADNESS: 186 consistent neurons
+  SURPRISE: 194 consistent neurons
+
+Layer 21:
+  ANGER: 263 consistent neurons
+  DISGUST: 251 consistent neurons
+  FEAR: 252 consistent neurons
+  HAPPINESS: 250 consistent neurons
+  SADNESS: 257 consistent neurons
+  SURPRISE: 249 consistent neurons
+
+Layer 22:
+  ANGER: 285 consistent neurons
+  DISGUST: 278 consistent neurons
+  FEAR: 274 consistent neurons
+  HAPPINESS: 266 consistent neurons
+  SADNESS: 277 consistent neurons
+  SURPRISE: 253 consistent neurons
